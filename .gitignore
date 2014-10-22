@@ -1,2 +1,9 @@
 .DS_Store
 *.class
+/nbproject/private/
+/639/nbproject/private/
+/639/build/
+/883/nbproject/private/
+/build/
+/883/build/
+/ICC/nbproject/private/
